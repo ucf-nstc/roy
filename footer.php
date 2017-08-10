@@ -8,6 +8,6 @@
   </div>
 </footer>
 
-<script src="./static/scripts.js"></script>
+<script src="http://nanoscience.ucf.edu/roy/static/scripts.js"></script>
 </body>
 </html>
