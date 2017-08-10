@@ -2,23 +2,44 @@
   padding: 1rem 0;
 }
 
-.hero {
-  background-image: url('./background.png');
+.hero-body .is-1 {
+  font-size: 4rem;
+}
+
+.title {
+  text-transform: uppercase;
+}
+
+.roy-title-underline {
+  border-bottom: 7px solid red;
+}
+
+.roy-home.hero {
+  background-image: url('./images/home/background.png');
   background-color: rgba(255, 255, 255, 0.7);
   background-size: cover;
   background-repeat: no-repeat;
   background-blend-mode: lighten;
 }
 
-.hero-body {
+.roy-home .hero-body {
   padding: 8em 0;
 }
 
-.hero-body .is-1 {
-  font-size: 4rem;
+.roy-members.title {
+  padding-top: 4rem;
 }
 
-/* Site specific */
-.roy-title-underline {
-  border-bottom: 7px solid red;
+/* Content items padding override */
+.content h2 {
+  padding-top: 4rem;
+}
+
+.content h4 {
+  padding-top: 2rem;
+}
+
+.content img {
+  padding: 2rem 0;
+  min-width: 300px;
 }

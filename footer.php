@@ -8,5 +8,6 @@
   </div>
 </footer>
 
+<script src="./static/scripts.js"></script>
 </body>
 </html>

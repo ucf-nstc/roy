@@ -6,12 +6,12 @@
 
   require('./header.php'); ?>
 
-<section class="hero">
+<section class="roy-home hero">
   <div class="hero-body">
     <div class="container has-text-centered">
       <h1 class="title is-1 is-size-1-mobile">
-        NEXT-GENERATION<br />
-        <span class="roy-title-underline">ELECTRONICS LABORATORY</span>
+        Next-Generation<br />
+        <span class="roy-title-underline">Electronics Laboratory</span>
       </h1>
     </div>
   </div>
@@ -19,7 +19,7 @@
 
 <section class="section">
   <div class="container">
-    <h1 class="title">About Us</h1>
+    <h2 class="title">About Us</h1>
     <p>
       We are an interdisciplinary team, working on the development of next generation electronic and optoelectronic devices using novel functional materials.
     </p>

@@ -18,7 +18,7 @@
         <h5 class="title is-5">ROY LAB</h5>
       </a>
 
-      <div class="navbar-burger burger" data-target="navMenuExample">
+      <div class="navbar-burger burger nav-toggle">
         <span></span>
         <span></span>
         <span></span>
@@ -26,6 +26,18 @@
     </div> <!-- /navbar-brand -->
 
     <div class="navbar-menu">
+      <div class="navbar-end">
+
+        <a class="navbar-item" href="./">Home</a>
+        <a class="navbar-item" href="./research">Research</a>
+        <a class="navbar-item" href="./members">Members</a>
+        <a class="navbar-item" href="./publications">Publications</a>
+        <a class="navbar-item" href="./news">News</a>
+
+      </div> <!-- /navbar-end -->
+    </div> <!-- /navbar-menu -->
+
+    <div class="is-hidden-desktop mobile-nav is-hidden-mobile is-hidden-tablet">
       <div class="navbar-end">
 
         <a class="navbar-item" href="./">Home</a>
