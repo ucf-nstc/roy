@@ -14,7 +14,9 @@
 <section class="section">
   <div class="container">
 
-    <a href="https://scholar.google.com/citations?user=tnpPPIIAAAAJ&hl=en">Google Scholar</a>
+    <a class="roy-a" href="https://scholar.google.com/citations?user=tnpPPIIAAAAJ&hl=en">Google Scholar</a>
+    <br />
+    <br />
 
     <h2 class="title is-3">Since Joining UCF:</h2>
     <div class="content">

@@ -30,6 +30,15 @@
   padding-top: 4rem;
 }
 
+.roy-a {
+  color: #000;
+  text-decoration: underline;
+}
+
+.roy-a:hover {
+  color: #ddd;
+}
+
 /* Content items padding override */
 .content h2 {
   padding-top: 4rem;
