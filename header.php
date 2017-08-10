@@ -28,11 +28,11 @@
     <div class="navbar-menu">
       <div class="navbar-end">
 
-        <a class="navbar-item" href="./">Home</a>
-        <a class="navbar-item" href="./research">Research</a>
-        <a class="navbar-item" href="./members">Members</a>
-        <a class="navbar-item" href="./publications">Publications</a>
-        <a class="navbar-item" href="./news">News</a>
+        <a class="navbar-item" href="http://nanoscience.ucf.edu/roy/">Home</a>
+        <a class="navbar-item" href="http://nanoscience.ucf.edu/roy/research">Research</a>
+        <a class="navbar-item" href="http://nanoscience.ucf.edu/roy/members">Members</a>
+        <a class="navbar-item" href="http://nanoscience.ucf.edu/roy/publications">Publications</a>
+        <a class="navbar-item" href="http://nanoscience.ucf.edu/roy/news">News</a>
 
       </div> <!-- /navbar-end -->
     </div> <!-- /navbar-menu -->
@@ -40,11 +40,11 @@
     <div class="is-hidden-desktop mobile-nav is-hidden-mobile is-hidden-tablet">
       <div class="navbar-end">
 
-        <a class="navbar-item" href="./">Home</a>
-        <a class="navbar-item" href="./research">Research</a>
-        <a class="navbar-item" href="./members">Members</a>
-        <a class="navbar-item" href="./publications">Publications</a>
-        <a class="navbar-item" href="./news">News</a>
+        <a class="navbar-item" href="http://nanoscience.ucf.edu/roy/">Home</a>
+        <a class="navbar-item" href="http://nanoscience.ucf.edu/roy/research">Research</a>
+        <a class="navbar-item" href="http://nanoscience.ucf.edu/roy/members">Members</a>
+        <a class="navbar-item" href="http://nanoscience.ucf.edu/roy/publications">Publications</a>
+        <a class="navbar-item" href="http://nanoscience.ucf.edu/roy/news">News</a>
 
       </div> <!-- /navbar-end -->
     </div> <!-- /navbar-menu -->
