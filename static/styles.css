@@ -2,6 +2,22 @@
   padding: 1rem 0;
 }
 
+.hero {
+  background-image: url('./background.png');
+  background-color: rgba(255, 255, 255, 0.7);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-blend-mode: lighten;
+}
+
+.hero-body {
+  padding: 8em 0;
+}
+
+.hero-body .is-1 {
+  font-size: 4rem;
+}
+
 /* Site specific */
 .roy-title-underline {
   border-bottom: 7px solid red;

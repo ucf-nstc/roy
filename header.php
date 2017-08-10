@@ -14,7 +14,7 @@
 
   <nav class="navbar">
     <div class="navbar-brand">
-      <a class="navbar-item" href="http://bulma.io">
+      <a class="navbar-item" href="./">
         <h5 class="title is-5">ROY LAB</h5>
       </a>
 
