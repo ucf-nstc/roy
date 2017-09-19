@@ -4,6 +4,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
+    <!-- UCF Header -->
+    <script type="text/javascript" src="http://universityheader.ucf.edu/bar/js/university-header.js"></script>
+
     <title>ROY LAB</title>
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
